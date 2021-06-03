@@ -1,1 +1,17 @@
-# 1---Bootstrap-Login-and-Register-Pages
+<h1 align="center">Bootstrap Login and Register Pages</h1>
+<p align="center">It's animation register and login pages with free jquery.</p>
+
+![Screenshot](https://raw.githubusercontent.com/zuramai/mazer/main/screenshot.png)
+
+## Installation
+1. Clone this repository or download zip
+```bash
+git clone https://github.com/zuramai/mazer
+```
+2. Open `index.html` to see the login pages
+
+## License
+This code is under MIT License.
+
+ ## Donate
+ You can support me at [Ko-fi](https://paypal.com/naufalrafif11) or [Trakteer](https://trakteer.id/naufalrafif)
