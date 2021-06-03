@@ -14,4 +14,4 @@ git clone naufal-rafif/Bootstrap-5-Login-and-Register-Page
 This code is under MIT License.
 
  ## Donate
- You can support me at [Ko-fi](https://paypal.com/naufalrafif11) or [Trakteer](https://trakteer.id/naufalrafif)
+ You can support me at [Paypal](https://paypal.com/naufalrafif11) or [Trakteer](https://trakteer.id/naufalrafif)
