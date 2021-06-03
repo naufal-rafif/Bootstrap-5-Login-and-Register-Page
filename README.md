@@ -6,7 +6,7 @@
 ## Installation
 1. Clone this repository or download zip
 ```bash
-git clone https://github.com/zuramai/mazer
+git clone naufal-rafif/Bootstrap-5-Login-and-Register-Page
 ```
 2. Open `index.html` to see the login pages
 
